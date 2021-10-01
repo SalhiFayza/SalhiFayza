@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salhi Fayza</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
-
-
-- 🔭 I’m currently working on [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
+*******************************************************************************************
+*******************************************************************************************
 
 - 🌱 I’m currently learning **Flutter, SwiftUI**
 
