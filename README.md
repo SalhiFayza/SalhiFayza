@@ -3,13 +3,14 @@
 
 
 
-- 🔭 I’m currently working on [TakeIn](https://takein.com/), [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
+A self-taught programmer and born at very little age😜
+🔭 I’m currently working on The Flutter Way
 
-- 🌱 I’m currently learning **Flutter, SwiftUI**
+🌱 I’m currently learning Flutter, SwiftUI
 
-- 👯 I’m looking to collaborate with **other content creators**
+👯 I’m looking to collaborate with other content creators
 
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+⚡ Fun fact I love coffee.
 
 ### Connect with me:
 
