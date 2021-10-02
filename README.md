@@ -36,10 +36,9 @@
     <a href="https://icons8.com/icon/59952/sql"><img src="https://img.icons8.com/nolan/64/sql.png"/></a>
     <a href="https://icons8.com/icon/nrY6pkbRkJCi/mariadb"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
     </p>
-<br/>
-<a img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&layout=compact&hide=html" alt="SalhiFayza" /></a>
-
-<br/>
+    
+  <a href="https://github.com/SalhiFayza/github-readme-stats"><img alt="Salhi Fayza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>>
 
 
 <br/>
