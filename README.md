@@ -39,7 +39,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&layout=compact&hide=html" alt="SalhiFayza" /></p>
 
+## Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<br/>
 <br/>
 
 <a href="https://github.com/SalhiFayza/github-readme-activity-graph"><img alt="Salhi Fayza Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SalhiFayza&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
