@@ -41,7 +41,6 @@
 
 
 <br/>
-<br/>
 
 <a href="https://github.com/SalhiFayza/github-readme-activity-graph"><img alt="Salhi Fayza Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SalhiFayza&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
