@@ -11,13 +11,9 @@
 
 <a href="https://twitter.com/SalhiFayza" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SalhiFayza" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/salhi-fayza-3322671a4/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SalhiFayza" height="22" width="22" /></a>
-
-
 <br />
 
 ### Languages and Tools:
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&layout=compact&hide=html" alt="SalhiFayza" /></p>
 
