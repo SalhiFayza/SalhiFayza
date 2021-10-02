@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Salhi Fayza</h1>
 <h3 align="center">A self-taught programmer and born at very little age😻</h3>
 
-- 🌱 I’m currently learning **Flutter, SwiftUI**
+- 🌸 I’m currently learning **Flutter, SwiftUI**
 
-- 👯 I’m looking to collaborate with **other content creators**
+- 👭 I’m looking to collaborate with **other content creators**
 
-- ⚡ Fun fact **I love coffee.**
+- ☕️❤️ Fun fact **I love coffee.**
 
 ### Connect with me:
 
