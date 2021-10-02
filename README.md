@@ -30,6 +30,9 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://icons8.com/icon/fAMVO_fuoOuC/php-logo"><img src="https://img.icons8.com/officel/50/000000/php-logo.png"/></a>
+    <a href="https://icons8.com/icon/qV-JzWYl9dzP/django"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+    <a href="https://icons8.com/icon/40669/c++"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://icons8.com/icon/40670/c-programming"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&layout=compact&hide=html" alt="SalhiFayza" /></p>
