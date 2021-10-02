@@ -37,7 +37,7 @@
     <a href="https://icons8.com/icon/nrY6pkbRkJCi/mariadb"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
     </p>
     
-  <a href="https://github.com/SalhiFayza/github-readme-stats"><img alt="Salhi Fayza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SalhiFayza/github-readme-stats"><img alt="Salhi Fayza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=D8BFD8" /></a>
   <br/>
 
 
