@@ -13,10 +13,10 @@
 
 
 ### Connect with me:
-
-<a href="https://twitter.com/SalhiFayza" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SalhiFayza" height="22" width="22" /></a>
-<a href="https://www.linkedin.com/in/salhi-fayza-3322671a4/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SalhiFayza" height="22" width="22" /></a>
-<br/>
+<p align="left">
+<a href = "https://www.linkedin.com/in/salhi-fayza-3322671a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/SalhiFayza"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
 
 ### 🚀 Languages and Tools:
 
@@ -38,7 +38,7 @@
     </p>
     
   <a href="https://github.com/SalhiFayza/github-readme-stats"><img alt="Salhi Fayza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>>
+  <br/>
 
 
 <br/>
