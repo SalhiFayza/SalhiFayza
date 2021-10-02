@@ -7,6 +7,8 @@
 
 - ☕️❤️ Fun fact **I love coffee.**
 
+<a href="https://www.buymeacoffee.com/iamsayuj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+
 ### Connect with me:
 
 <a href="https://twitter.com/SalhiFayza" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SalhiFayza" height="22" width="22" /></a>
