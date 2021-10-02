@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Salhi Fayza</h1>
 <h3 align="center">A self-taught programmer and born at very little age😻</h3>
 
+<a href="https://www.buymeacoffee.com/iamsayuj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+
 - 🌸 I’m currently learning **Flutter, SwiftUI.**
 
 - 👭 I’m looking to collaborate with **other content creators.**
 
 - ☕️❤️ Fun fact **I love coffee.**
-
-<a href="https://www.buymeacoffee.com/iamsayuj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
 ### Connect with me:
 
