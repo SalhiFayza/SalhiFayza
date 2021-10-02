@@ -3,7 +3,7 @@
 
 <a href="https://www.buymeacoffee.com/iamsayuj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
-##💁‍♀️ About Me
+## 💁‍♀️ About Me
 
 - 🌸 I’m currently learning **Flutter, SwiftUI.**
 
@@ -11,7 +11,8 @@
 
 - ☕️❤️ Fun fact **I love coffee.**
 
-### Connect with me:
+
+### 🚀 Connect with me:
 
 <a href="https://twitter.com/SalhiFayza" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SalhiFayza" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/salhi-fayza-3322671a4/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SalhiFayza" height="22" width="22" /></a>
