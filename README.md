@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salhi Fayza</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">A self-taught programmer and born at very little age😻</h3>
 
 - 🌱 I’m currently learning **Flutter, SwiftUI**
 
