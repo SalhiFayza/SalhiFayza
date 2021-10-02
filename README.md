@@ -38,8 +38,9 @@
     </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&layout=compact&hide=html" alt="SalhiFayza" /></p>
-
-## Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+  <b>
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
