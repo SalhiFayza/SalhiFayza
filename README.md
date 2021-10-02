@@ -17,8 +17,7 @@
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="22" height="22"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original-wordmark.svg" alt="php" width="22" height="22"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/HTML/HTML-original-wordmark.svg" alt="HTML" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/Android/Android-original-wordmark.svg" alt="Android" width="22" height="22"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/CSS/CSS-original-wordmark.svg" alt="CSS" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/Ajax/Ajax-original-wordmark.svg" alt="Ajax" width="22" height="22"/</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&layout=compact&hide=html" alt="SalhiFayza" /></p>
 
