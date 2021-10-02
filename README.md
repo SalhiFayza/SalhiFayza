@@ -35,6 +35,8 @@
     <a href="https://icons8.com/icon/40670/c-programming"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://icons8.com/icon/59952/sql"><img src="https://img.icons8.com/nolan/64/sql.png"/></a>
     <a href="https://icons8.com/icon/nrY6pkbRkJCi/mariadb"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
+    <a href="https://icons8.com/icon/7AFcZ2zirX6Y/dart"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
+    <a href="https://icons8.com/icon/7I3BjCqe9rjG/flutter"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
     </p>
     
   <a href="https://github.com/SalhiFayza/github-readme-stats"><img alt="Salhi Fayza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=D8BFD8" /></a>
