@@ -2,7 +2,7 @@
 <h3 align="center">A self-taught programmer and born at very little age😻</h3>
 
 
-<a href="https://www.buymeacoffee.com/iamsayuj">< align="center" img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+<a href="https://www.buymeacoffee.com/iamsayuj">< img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
 - 🌸 I’m currently learning **Flutter, SwiftUI.**
 
