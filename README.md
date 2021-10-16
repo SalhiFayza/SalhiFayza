@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Salhi Fayza</h1>
 <h3 align="center">I'm a Software Developer from Tunisia 😻</h3>
 
-<a href="https://www.buymeacoffee.com/iamsayuj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+<a ><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
 ## 💁‍♀️ About Me
 
