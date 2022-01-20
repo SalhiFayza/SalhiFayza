@@ -5,7 +5,7 @@
 
 ## 💁‍♀️ About Me
 
-- 🌸 I’m currently learning **React JS.**
+- 🌸 I’m currently learning **Flutter.**
 
 - 👭 I’m looking to collaborate with **other content creators.**
 
