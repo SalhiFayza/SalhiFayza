@@ -41,6 +41,9 @@
     <a href="https://icons8.com/icon/7I3BjCqe9rjG/flutter"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
     <a href="https://icons8.com/icon/1LAX3PYMg2iA/android-studio"><img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"/></a>
     <a href="https://icons8.com/icon/123603/react-native"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+    <a href=" https://icons8.com/icon/SRBNGzl2dc2m/raspberry"><img src="https://img.icons8.com/color/48/000000/raspberry.png"/></a>
+    <a href="https://icons8.com/icon/123603/react-native"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+   
     </p>
     
   <a href="https://github.com/SalhiFayza/github-readme-stats"><img alt="Salhi Fayza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=D8BFD8" /></a>
