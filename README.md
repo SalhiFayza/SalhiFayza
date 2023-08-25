@@ -46,12 +46,9 @@
   <a href="https://github.com/SalhiFayza/github-readme-stats"><img alt="Salhi Fayza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=D8BFD8" /></a>
   <br/>
     <a href="https://github.com/SalhiFayza?tab=repositories" target="_blank" title="Snake eats commits!">
-        <img width="700" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/snake.svg" />
+        <img width="700" src="https://github.com/SalhiFayza/SalhiFayza/blob/main/assets/gen/snake.svg" />
     </a>
-    <a href="https://github.com/SalhiFayza?tab=repositories" target="_blank" title="GitHub metrics!">
-        <img width="500" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/metrics.svg" />
-    </a>
-<br/>
+  <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
