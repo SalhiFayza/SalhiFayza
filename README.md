@@ -22,8 +22,7 @@
     <a href="https://icons8.com/icon/74402/mongodb"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
     <a href="https://icons8.com/icon/71257/angularjs"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
     <a href="https://icons8.com/icon/24465/swift"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
-    <a href="https://icons8.com/icon/13679/java"><img src="![image](https://github.com/SalhiFayza/SalhiFayza/assets/60444937/d8d88866-86cf-4143-9634-07d4f5e2dbef)
-"/></a>
+    <a href="https://icons8.com/icon/13679/java"><img src="https://img.icons8.com/color/48/000000/java"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
