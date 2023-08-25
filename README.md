@@ -35,8 +35,7 @@
     <a href="https://icons8.com/icon/qV-JzWYl9dzP/django"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
     <a href="https://icons8.com/icon/40669/c++"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://icons8.com/icon/40670/c-programming"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href="https://icons8.com/icon/hsPbhkOH4FMe/node-js"><img src="![image](https://github.com/SalhiFayza/SalhiFayza/assets/60444937/abb05bc7-f251-40a2-ad4a-b524946e08b1)
-"/></a>
+    <a href="https://icons8.com/icon/hsPbhkOH4FMe/node-js"><img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js.png"/></a>
     <a href="https://icons8.com/icon/nrY6pkbRkJCi/mariadb"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
     <a href="https://icons8.com/icon/7AFcZ2zirX6Y/dart"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
     <a href="https://icons8.com/icon/7I3BjCqe9rjG/flutter"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
