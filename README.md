@@ -60,5 +60,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SalhiFayza&" alt="SalhiFayza" /></p>
 <br/>
+    <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
 <br/>
 
