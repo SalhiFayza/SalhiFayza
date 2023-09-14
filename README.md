@@ -45,7 +45,6 @@
     <a href="https://icons8.com/icon/5EgftTsjA4av/raspberry-pi-zero"><img src="https://img.icons8.com/color/48/000000/raspberry-pi-zero.png"/></a>
       </p>
     
-  <a href="https://github.com/SalhiFayza/github-readme-stats"><img alt="Salhi Fayza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalhiFayza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=D8BFD8" /></a>
   <br/>
     <a href="https://github.com/SalhiFayza?tab=repositories" target="_blank" title="Snake eats commits!">
         <img width="700" src="https://github.com/SalhiFayza/SalhiFayza/blob/main/assets/gen/snake.svg" />
@@ -55,8 +54,6 @@
 
 <br/>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SalhiFayza&show_icons=true&locale=en" alt="SalhiFayza" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SalhiFayza&" alt="SalhiFayza" /></p>
 <br/>
     <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
