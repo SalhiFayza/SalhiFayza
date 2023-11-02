@@ -1,4 +1,4 @@
-![image](https://github.com/SalhiFayza/SalhiFayza/assets/60444937/8bb00c88-ff5b-4c9e-bd95-0090ec62ba23)<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Salhi Fayza</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Salhi Fayza</h1>
 <h3 align="center">I'm an automation tester from Tunisia 😻</h3>
 
 ### 💁‍♀️ About Me:
