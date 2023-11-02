@@ -41,7 +41,7 @@
     <a href="https://icons8.com/icon/7AFcZ2zirX6Y/dart"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
     <a href="https://icons8.com/icon/7I3BjCqe9rjG/flutter"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
  
-      </p>
+      
     
   <br/>
     <a href="https://github.com/SalhiFayza?tab=repositories" target="_blank" title="Snake eats commits!">
