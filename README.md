@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Salhi Fayza</h1>
-<h3 align="center">I'm a Full Stack Development (MEAN Stack) from Tunisia 😻</h3>
+<h3 align="center">I'm an automation tester from Tunisia 😻</h3>
 
 ### 💁‍♀️ About Me:
 
-- 🌸 I’m currently learning **JAVA Selenium.**
+- 🌸 I’m currently working as an **Automation Tester**
 
 - 👭 I’m looking to collaborate with **other content creators.**
 
