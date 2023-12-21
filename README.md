@@ -7,7 +7,7 @@
 
 - 👭 I’m looking to collaborate with **other content creators.**
 
-- ☕️❤️ Fun fact **I love coffee.**
+- ☕️❤️ Fun fact : **I love coffee.**
 
 
 ### Connect with me:
